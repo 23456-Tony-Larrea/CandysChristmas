@@ -98,60 +98,61 @@
             // 
             // baston1
             // 
-            this.baston1.Image = global::CandysChristmas.Properties.Resources.png_clipart_candy_cane_christmas_gift_scalable_graphics_christmas_cartoon_element_cartoon_character_ribbon;
-            this.baston1.Location = new System.Drawing.Point(608, 253);
+            this.baston1.Image = global::CandysChristmas.Properties.Resources._222;
+            this.baston1.Location = new System.Drawing.Point(571, 203);
             this.baston1.Name = "baston1";
-            this.baston1.Size = new System.Drawing.Size(54, 31);
+            this.baston1.Size = new System.Drawing.Size(155, 149);
             this.baston1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.baston1.TabIndex = 33;
             this.baston1.TabStop = false;
+            this.baston1.Click += new System.EventHandler(this.baston1_Click);
             // 
             // baston2
             // 
-            this.baston2.Image = global::CandysChristmas.Properties.Resources.WhatsApp_Image_2020_12_21_at_9_25_03_PM;
-            this.baston2.Location = new System.Drawing.Point(236, 394);
+            this.baston2.Image = global::CandysChristmas.Properties.Resources._222;
+            this.baston2.Location = new System.Drawing.Point(209, 67);
             this.baston2.Name = "baston2";
-            this.baston2.Size = new System.Drawing.Size(54, 31);
+            this.baston2.Size = new System.Drawing.Size(117, 86);
             this.baston2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.baston2.TabIndex = 31;
             this.baston2.TabStop = false;
             // 
             // caramelo1
             // 
-            this.caramelo1.Image = global::CandysChristmas.Properties.Resources._515_5156481_dulces_dibujos_png_caramelos_animados_de_colores_png;
-            this.caramelo1.Location = new System.Drawing.Point(709, 96);
+            this.caramelo1.Image = global::CandysChristmas.Properties.Resources._111;
+            this.caramelo1.Location = new System.Drawing.Point(665, 51);
             this.caramelo1.Name = "caramelo1";
-            this.caramelo1.Size = new System.Drawing.Size(35, 26);
+            this.caramelo1.Size = new System.Drawing.Size(79, 71);
             this.caramelo1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.caramelo1.TabIndex = 17;
             this.caramelo1.TabStop = false;
             // 
             // caramelo2
             // 
-            this.caramelo2.Image = global::CandysChristmas.Properties.Resources._515_5156481_dulces_dibujos_png_caramelos_animados_de_colores_png;
-            this.caramelo2.Location = new System.Drawing.Point(459, 414);
+            this.caramelo2.Image = global::CandysChristmas.Properties.Resources._111;
+            this.caramelo2.Location = new System.Drawing.Point(444, 381);
             this.caramelo2.Name = "caramelo2";
-            this.caramelo2.Size = new System.Drawing.Size(35, 26);
+            this.caramelo2.Size = new System.Drawing.Size(149, 78);
             this.caramelo2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.caramelo2.TabIndex = 15;
             this.caramelo2.TabStop = false;
             // 
             // baston3
             // 
-            this.baston3.Image = global::CandysChristmas.Properties.Resources.png_clipart_candy_cane_christmas_gift_scalable_graphics_christmas_cartoon_element_cartoon_character_ribbon;
-            this.baston3.Location = new System.Drawing.Point(251, 32);
+            this.baston3.Image = global::CandysChristmas.Properties.Resources._222;
+            this.baston3.Location = new System.Drawing.Point(206, 360);
             this.baston3.Name = "baston3";
-            this.baston3.Size = new System.Drawing.Size(54, 31);
+            this.baston3.Size = new System.Drawing.Size(120, 90);
             this.baston3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.baston3.TabIndex = 12;
             this.baston3.TabStop = false;
             // 
             // caramelo3
             // 
-            this.caramelo3.Image = global::CandysChristmas.Properties.Resources._515_5156481_dulces_dibujos_png_caramelos_animados_de_colores_png;
-            this.caramelo3.Location = new System.Drawing.Point(45, 266);
+            this.caramelo3.Image = global::CandysChristmas.Properties.Resources._111;
+            this.caramelo3.Location = new System.Drawing.Point(32, 234);
             this.caramelo3.Name = "caramelo3";
-            this.caramelo3.Size = new System.Drawing.Size(35, 26);
+            this.caramelo3.Size = new System.Drawing.Size(68, 71);
             this.caramelo3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.caramelo3.TabIndex = 11;
             this.caramelo3.TabStop = false;
@@ -159,10 +160,10 @@
             // enemigo2
             // 
             this.enemigo2.BackColor = System.Drawing.Color.Transparent;
-            this.enemigo2.Image = global::CandysChristmas.Properties.Resources._557_5575138_grinch_stealing_the_tree_clipart;
-            this.enemigo2.Location = new System.Drawing.Point(153, 234);
+            this.enemigo2.Image = global::CandysChristmas.Properties.Resources.aaaaa;
+            this.enemigo2.Location = new System.Drawing.Point(137, 234);
             this.enemigo2.Name = "enemigo2";
-            this.enemigo2.Size = new System.Drawing.Size(81, 67);
+            this.enemigo2.Size = new System.Drawing.Size(100, 78);
             this.enemigo2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.enemigo2.TabIndex = 9;
             this.enemigo2.TabStop = false;
@@ -170,10 +171,10 @@
             // enemigo3
             // 
             this.enemigo3.BackColor = System.Drawing.Color.Transparent;
-            this.enemigo3.Image = global::CandysChristmas.Properties.Resources._557_5575138_grinch_stealing_the_tree_clipart;
-            this.enemigo3.Location = new System.Drawing.Point(543, 86);
+            this.enemigo3.Image = global::CandysChristmas.Properties.Resources.aaaaa;
+            this.enemigo3.Location = new System.Drawing.Point(504, 86);
             this.enemigo3.Name = "enemigo3";
-            this.enemigo3.Size = new System.Drawing.Size(81, 67);
+            this.enemigo3.Size = new System.Drawing.Size(104, 90);
             this.enemigo3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.enemigo3.TabIndex = 8;
             this.enemigo3.TabStop = false;
@@ -181,10 +182,10 @@
             // enemigo
             // 
             this.enemigo.BackColor = System.Drawing.Color.Transparent;
-            this.enemigo.Image = global::CandysChristmas.Properties.Resources._557_5575138_grinch_stealing_the_tree_clipart;
+            this.enemigo.Image = global::CandysChristmas.Properties.Resources.aaaaa;
             this.enemigo.Location = new System.Drawing.Point(45, 86);
             this.enemigo.Name = "enemigo";
-            this.enemigo.Size = new System.Drawing.Size(81, 67);
+            this.enemigo.Size = new System.Drawing.Size(100, 90);
             this.enemigo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.enemigo.TabIndex = 7;
             this.enemigo.TabStop = false;
@@ -192,10 +193,10 @@
             // noel
             // 
             this.noel.BackColor = System.Drawing.Color.Transparent;
-            this.noel.Image = global::CandysChristmas.Properties.Resources.noel1;
-            this.noel.Location = new System.Drawing.Point(45, 465);
+            this.noel.Image = global::CandysChristmas.Properties.Resources._333;
+            this.noel.Location = new System.Drawing.Point(32, 464);
             this.noel.Name = "noel";
-            this.noel.Size = new System.Drawing.Size(117, 82);
+            this.noel.Size = new System.Drawing.Size(113, 95);
             this.noel.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.noel.TabIndex = 6;
             this.noel.TabStop = false;
@@ -258,7 +259,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Green;
+            this.BackColor = System.Drawing.Color.Yellow;
             this.ClientSize = new System.Drawing.Size(813, 583);
             this.Controls.Add(this.baston1);
             this.Controls.Add(this.label1);

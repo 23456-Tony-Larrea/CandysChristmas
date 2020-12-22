@@ -238,6 +238,12 @@ namespace CandysChristmas
                 over.Visible = true;
             }
         }
+
+        private void baston1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         void PuntajeMasivo()
         {
             if (noel.Bounds.IntersectsWith(caramelo1.Bounds))
