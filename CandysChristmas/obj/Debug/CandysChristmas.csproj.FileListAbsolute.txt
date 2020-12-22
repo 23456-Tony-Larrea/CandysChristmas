@@ -1,0 +1,10 @@
+D:\Juego\Juego\CandysChristmas\CandysChristmas\bin\Debug\CandysChristmas.exe.config
+D:\Juego\Juego\CandysChristmas\CandysChristmas\bin\Debug\CandysChristmas.exe
+D:\Juego\Juego\CandysChristmas\CandysChristmas\bin\Debug\CandysChristmas.pdb
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.csprojAssemblyReference.cache
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.Form1.resources
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.Properties.Resources.resources
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.csproj.GenerateResource.cache
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.csproj.CoreCompileInputs.cache
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.exe
+D:\Juego\Juego\CandysChristmas\CandysChristmas\obj\Debug\CandysChristmas.pdb
